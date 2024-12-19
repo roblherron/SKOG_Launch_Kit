@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<manifest identifier="fbi4Y-3RfATvnRtu4AbCdy6qcJQS9biaU203Dm5G" version="1"
+<manifest identifier="fbi4Y-3RfATvnRtu4AbCdy6qcJQS9biakE9kAGm_" version="1"
   xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
   xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
@@ -15,7 +15,7 @@
       <title>Welcome to Servant Keeper Online Giving</title>
       <item identifier="i1" identifierref="r1" isvisible="true">
         <title>Welcome to Servant Keeper Online Giving</title>
-        <adlcp:datafromlms>eyJjcHYiOiJVMjAzRG01RyIsInJsZCI6ZmFsc2V9</adlcp:datafromlms>
+        <adlcp:datafromlms>eyJjcHYiOiJrRTlrQUdtXyIsInJsZCI6ZmFsc2V9</adlcp:datafromlms>
       </item>
     </organization>
   </organizations>
@@ -47,38 +47,18 @@
       
 
       <!-- FRONTEND BUNDLE ASSETS -->
-      <file href="scormcontent/lib/rise/83b77401.js" />
+      <file href="scormcontent/lib/rise/ab16460c.js" />
 <file href="scormcontent/lib/rise/b7e6275d.css" />
-<file href="scormcontent/lib/rise/32bb1629.js" />
-<file href="scormcontent/lib/rise/12da2f17.css" />
-<file href="scormcontent/lib/rise/286caab1.js" />
-<file href="scormcontent/lib/rise/d562e886.woff" />
-<file href="scormcontent/lib/rise/d757c535.woff" />
-<file href="scormcontent/lib/rise/db074fa2.woff" />
-<file href="scormcontent/lib/rise/354501ba.woff" />
-<file href="scormcontent/lib/rise/6fdf0ac5.woff" />
-<file href="scormcontent/lib/rise/0c3b8929.woff" />
-<file href="scormcontent/lib/rise/428978dc.woff" />
-<file href="scormcontent/lib/rise/fd947498.woff" />
-<file href="scormcontent/lib/rise/4f35fbcc.woff" />
-<file href="scormcontent/lib/rise/3f07ed67.woff" />
-<file href="scormcontent/lib/rise/96759856.woff" />
-<file href="scormcontent/lib/rise/b9cd458a.woff" />
-<file href="scormcontent/lib/rise/8d593cfa.woff" />
-<file href="scormcontent/lib/rise/02271ec5.woff" />
-<file href="scormcontent/lib/rise/073b3402.woff" />
-<file href="scormcontent/lib/rise/0108e89c.woff" />
-<file href="scormcontent/lib/rise/3a99e70a.woff" />
-<file href="scormcontent/lib/rise/7947224e.woff" />
-<file href="scormcontent/lib/rise/aeffd802.woff" />
-<file href="scormcontent/lib/rise/4c6b94fd.woff" />
+<file href="scormcontent/lib/rise/911cfedc.js" />
+<file href="scormcontent/lib/rise/b3f464ef.css" />
+<file href="scormcontent/lib/rise/680ed26f.js" />
 <file href="scormcontent/lib/rise/5ce3f37c.js" />
-<file href="scormcontent/lib/rise/90ac3c0d.js" />
-<file href="scormcontent/lib/rise/1cc2d900.js" />
-<file href="scormcontent/lib/rise/2c5680f5.js" />
+<file href="scormcontent/lib/rise/e8c73cc3.js" />
+<file href="scormcontent/lib/rise/dbd76bf1.js" />
+<file href="scormcontent/lib/rise/3c4d17f3.js" />
 <file href="scormcontent/lib/mondrian/entry.js" />
-<file href="scormcontent/lib/mondrian/cb77b9e0.js" />
-<file href="scormcontent/lib/mondrian/295be052.js" />
+<file href="scormcontent/lib/mondrian/f29f3d92.js" />
+<file href="scormcontent/lib/mondrian/4d907763.js" />
 <file href="scormcontent/lib/mondrian/215fe725.js" />
 <file href="scormcontent/lib/mondrian/c16e7dd3.js" />
 <file href="scormcontent/lib/mondrian/5ebb90af.js" />
@@ -99,11 +79,9 @@
 <file href="scormcontent/lib/fonts/Merriweather-Regular.woff" />
 <file href="scormcontent/lib/fonts/Merriweather-Light.woff" />
 <file href="scormcontent/assets/small.png" />
-<file href="scormcontent/assets/s4W57bkwaYU2AL4F.jpg" />
+<file href="scormcontent/assets/3b0H7Yg4lJa1r8XN.jpg" />
 <file href="scormcontent/assets/Untitled%20Project.mp4" />
 <file href="scormcontent/assets/Untitled%20Project.jpg" />
-<file href="scormcontent/assets/Merchant%20Application%20-%20Marizza.mp4" />
-<file href="scormcontent/assets/Merchant%20Application%20-%20Marizza.jpg" />
 <file href="scormcontent/assets/SKOG%20-%20Staff%20Portal.mp4" />
 <file href="scormcontent/assets/SKOG%20-%20Staff%20Portal.jpg" />
 <file href="scormcontent/assets/SKOG%20-%20Donor%20Portal.mp4" />
@@ -111,9 +89,10 @@
 <file href="scormcontent/assets/SKOG%20-%20Signing%20Up%20and%20Signing%20In%20%282%29.mp4" />
 <file href="scormcontent/assets/SKOG%20-%20Signing%20Up%20and%20Signing%20In%20%282%29.jpg" />
 <file href="scormcontent/assets/screencapture-giving-servantkeeper-supermegachurch-staff-giving-forms-edit-2024-11-01-14_02_40.jpg" />
+<file href="scormcontent/assets/Giving%20Page%20Setup%202.jpg" />
 <file href="scormcontent/assets/Text%20To%20Give%20v1%20%281%29.mp4" />
 <file href="scormcontent/assets/Text%20To%20Give%20v1%20%281%29.jpg" />
-<file href="scormcontent/assets/Giving%20Page%20Setup%202.jpg" />
+<file href="scormcontent/assets/l3A0OmEzVuOmHxI8.png" />
 
       <file href="scormcontent/locales/und.js" />
 
